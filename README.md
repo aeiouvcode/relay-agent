@@ -2,6 +2,10 @@
 
 Relay is a local-first personal agent that runs as a static browser app. It has a real planner/tool/reply loop through an optional Token Harbor or OpenRouter model connection, encrypted private memory, tasks, notes, arithmetic, encrypted exports, and an offline fallback controller.
 
+![Relay unlock screen](docs/screenshot.jpg)
+
+**Live:** https://aeiouvcode.github.io/relay-agent/
+
 ## Run locally
 
 ```sh
